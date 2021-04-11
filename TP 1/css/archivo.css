@@ -1,0 +1,5 @@
+.fondo {
+    width: 80%;
+    background-image: url("img/fondo.jpg");
+    background-size: contain;
+}
