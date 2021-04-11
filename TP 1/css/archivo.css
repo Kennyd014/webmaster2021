@@ -1,6 +1,7 @@
 body {
     background-color: rgba(52, 17, 180, 0.966);
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
 }
 
 .espacio1 {
@@ -10,7 +11,7 @@ body {
 }
 
 .espacio2 {
-    background-color: rgb(59, 74, 160);
+    background-color: rgba(100, 119, 224, 0.808);
     border: 2px rgb(0, 0, 0) double;
     margin-top: 3px;
     padding: 1px;
