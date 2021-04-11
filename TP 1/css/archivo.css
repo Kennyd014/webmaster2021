@@ -4,7 +4,12 @@ body {
 }
 
 .espacio1 {
-    border: 2px solid rgb(247, 188, 188);
+    border: 2px solid rgb(5, 1, 1);
     border-radius: 15px;
     background-color: rgba(185, 228, 230, 0.753);
+}
+
+.espacio2 {
+    background-color: darkgrey;
+    border-bottom: 2px rgb(12, 12, 12) dotted;
 }
