@@ -1,5 +1,9 @@
-.fondo {
-    width: 80%;
-    background-image: url("img/fondo.jpg");
-    background-size: contain;
+.fondo-imagen {
+    height: 450px;
+    background-image: url("/img/fondo.jpg");
+    background-size: cover;
+}
+
+body {
+    background-color: rgba(48, 48, 204, 0.664);
 }
