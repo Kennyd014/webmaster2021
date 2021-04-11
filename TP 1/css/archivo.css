@@ -5,5 +5,12 @@
 }
 
 body {
-    background-color: rgba(48, 48, 204, 0.664);
+    background-color: rgba(214, 196, 172, 0.664);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.espacio1 {
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: rgba(142, 207, 209, 0.753);
 }
