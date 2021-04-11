@@ -1,16 +1,10 @@
-.fondo-imagen {
-    height: 450px;
-    background-image: url("/img/fondo.jpg");
-    background-size: cover;
-}
-
 body {
     background-color: rgba(214, 196, 172, 0.664);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .espacio1 {
-    border: 2px solid black;
+    border: 2px solid rgb(247, 188, 188);
     border-radius: 15px;
-    background-color: rgba(142, 207, 209, 0.753);
+    background-color: rgba(185, 228, 230, 0.753);
 }
