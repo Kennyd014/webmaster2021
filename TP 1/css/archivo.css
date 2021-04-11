@@ -1,15 +1,23 @@
 body {
-    background-color: rgba(214, 196, 172, 0.664);
+    background-color: rgba(52, 17, 180, 0.966);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .espacio1 {
     border: 2px solid rgb(5, 1, 1);
     border-radius: 15px;
-    background-color: rgba(185, 228, 230, 0.753);
+    background-color: rgba(141, 207, 245, 0.932);
 }
 
 .espacio2 {
-    background-color: darkgrey;
-    border-bottom: 2px rgb(12, 12, 12) dotted;
+    background-color: rgb(59, 74, 160);
+    border: 2px rgb(0, 0, 0) double;
+    margin-top: 3px;
+    padding: 1px;
+}
+
+.barra {
+    border-bottom: 3px black dotted;
+    border-top: black 3px dotted;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
