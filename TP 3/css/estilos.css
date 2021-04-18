@@ -64,6 +64,7 @@ html {
     padding: 2.5%;
     border: white 5px solid;
     background: rgb(255, 0, 0, 0.664);
+    overflow: hidden;
 }
 
 .notisimple img {
