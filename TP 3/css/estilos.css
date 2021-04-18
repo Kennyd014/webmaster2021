@@ -1,0 +1,90 @@
+html {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.barranav1 {
+    background: rgb(255, 255, 255);
+    text-align: end;
+    list-style-type: none;
+}
+
+.barranav1 .caja a:hover {
+    background: rgba(255, 0, 0, 0.664);
+    color: white;
+    padding: 14px;
+}
+
+.caja1 {
+    width: 5%;
+    height: 65px;
+    background: rgb(255, 255, 255);
+    float: left;
+    margin-top: 2%;
+    margin-bottom: 0.5%;
+}
+
+.caja1 img {
+    height: 100%;
+    width: 100%;
+    max-width: 1200px;
+    padding-right: 5px;
+}
+
+.caja {
+    background: white;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    height: 65px;
+    width: 15.83%;
+    float: left;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 2%;
+    margin-bottom: 0.5%;
+    max-width: 1200px;
+}
+
+.contenedor {
+    clear: both;
+    background-color: white;
+}
+
+.notisimple {
+    width: 50%;
+    height: 400px;
+    float: left;
+    padding: 2.5%;
+    border: white 5px solid;
+    background: rgb(255, 0, 0, 0.664);
+}
+
+.notisimple img {
+    width: 100%;
+    height: 200px;
+}
+
+.notienlace {
+    text-decoration: none;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.pie {
+    background: rgba(0, 0, 0, 0.897);
+    float: left;
+    width: 100%
+}
+
+.pie div a img {
+    width: 50px;
+    height: 50px;
+    float: right;
+}
