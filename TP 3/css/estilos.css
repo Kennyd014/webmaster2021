@@ -72,6 +72,10 @@ html {
     height: 200px;
 }
 
+.notisimple p {
+    overflow: hidden;
+}
+
 .notienlace {
     text-decoration: none;
     color: black;
