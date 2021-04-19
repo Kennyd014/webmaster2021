@@ -93,3 +93,17 @@ html {
     height: 50px;
     float: right;
 }
+
+.noticompleta {
+    background: rgb(255, 255, 255);
+}
+
+.noticompleta h1 {
+    padding-top: 110px;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.noticompleta p {
+    margin: 20px;
+}
