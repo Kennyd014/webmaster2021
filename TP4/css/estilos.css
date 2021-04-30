@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.tamañoimg {
+    width: 100%;
+}
+
+#contenedor {
+    background-image: url(../img/space-bg.jpg);
+    width: 100vw;
+    max-width: 1200px;
+    height: 110vh;
+    z-index: 99999;
+    position: relative;
+}
+
+.tierra {
+    width: 45%;
+    position: absolute;
+    top: 30%;
+    right: 35%;
+    z-index: 4;
+}
+
+.luna {
+    width: 18%;
+    position: absolute;
+    top: 36%;
+    right: 58%;
+    z-index: 5;
+}
+
+.meteor {
+    width: 30%;
+    position: absolute;
+    bottom: 66%;
+    left: 55%;
+    z-index: 6;
+}
+
+.arsat {
+    width: 20%;
+    position: absolute;
+    top: 80%;
+    left: 0%;
+    z-index: 7;
+}
+
+.jupiter {
+    width: 4%;
+    position: absolute;
+    top: 10%;
+    right: 7%;
+}
+
+.superman {
+    width: 1%;
+    position: absolute;
+    z-index: 7;
+    top: 35%;
+    left: 50%;
+}
